@@ -1,5 +1,5 @@
 # SUGAM PUDASAINI
-## Major= Computer Science
+## Major: Computer Science
 ### Junior Year
 <!--
 **sugam-pudasaini/sugam-pudasaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
